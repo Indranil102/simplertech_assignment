@@ -9,6 +9,10 @@
 .env
 .env.*
 
+# Firebase config (if using env or separate config files)
+.env.firebase
+firebaseConfig.js
+
 # local env files
 *.local
 
