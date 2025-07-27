@@ -12,7 +12,7 @@ const Navbar = ({ user, setUser }) => {
   return (
     <div>
       <nav className="bg-gradient-to-r from-blue-600 via-purple-500 to-pink-500 text-white p-4 flex justify-between items-center flex-wrap">
-        <h1 className="text-xl font-bold">MyApp</h1>
+        <h1 className="text-xl font-bold">NavLink</h1>
         <div className="flex space-x-4 mt-2 sm:mt-0">
           <Link to="/" className="hover:text-gray-200">
             Home
